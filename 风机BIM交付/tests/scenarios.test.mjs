@@ -1,0 +1,14 @@
+import assert from 'node:assert/strict';
+import {createState,step} from '../viewer/simulation.mjs';
+import {createTraining} from '../viewer/training-data.mjs';
+const wind={speed:8,direction:270};
+let s={...createState(),running:true,rpm:10,pitch:0,faultStop:true,fault:'pitchLag'};
+s=step(s,wind,.1);assert.ok(s.blade1Pitch<s.pitch,'叶片1实际桨距必须迟滞');
+for(let i=0;i<1500;i++)s=step(s,wind,.1);
+assert.ok(s.blade1Pitch>=85&&s.rpm<.05,'迟滞场景最终停稳');
+const t=createTraining();t.update(s,{elapsed:0,epoch:0});t.setFault('pitchLag');assert.equal(t.latched,true);t.setFault('none');t.acknowledge();assert.equal(t.canResume({...s,blade1Pitch:50}),false,'全部叶片顺桨才允许恢复');
+let n={...createState(),running:true,rpm:10,normalStop:true};for(let i=0;i<600;i++)n=step(n,wind,.1);
+assert.equal(n.rpm,0);assert.equal(n.status,'正常停机 · 待启动');
+assert.equal(step({...n,running:false},wind,.1).status,n.status,'暂停不等于正常停机');
+assert.ok(step({...n,normalStop:false},wind,.1).pitch<90,'允许启动后回桨');
+console.log('PASS: single blade lag, all-blade recovery, normal stop and start');

@@ -1,0 +1,75 @@
+{
+  "viewer_version": "R15",
+  "date": "2026-10-17",
+  "geometry_version": "R10 (unchanged in R15)",
+  "scope": "公开资料重建与教学仿真；支持独立数据接入框架，真实接口及生产部署待验收",
+  "component_count": 447,
+  "features": [
+    "故障锁存教学停机",
+    "清除、确认、手动恢复",
+    "200条事件时间线及JSON导出",
+    "四种操作模式",
+    "单叶片变桨迟滞与偏航异常",
+    "正常停机与允许启动",
+    "600秒快照、事件定位与过程回放",
+    "分步教学引导",
+    "储能SOC、功率、容量与效率约束",
+    "风储自动送网功率平滑",
+    "充放电能量、损耗累计与能量守恒",
+    "储能仿真时钟与历史回放联动",
+    "14测点JSON与同源HTTP接入框架",
+    "数据质量与可配置持续告警、回差",
+    "500条浏览器告警历史、确认筛选导出",
+    "低画质与后台渲染暂停",
+    "健康检查与私有快照适配",
+    "四类故障课程说明与直接注入",
+    "五项实时恢复条件检查",
+    "教学练习完成计数与回放隔离"
+  ],
+  "model_download_excludes": [
+    "网页储能扩展",
+    "动态测点",
+    "运行姿态与动画",
+    "教学事件记录"
+  ],
+  "files": {
+    "models/V90_reconstruction.glb": {
+      "sha256": "b92e12ac044e5b12b4bfcba3ad89af98cacbd32abe18e85ed5d0bd5b8f038c0d",
+      "bytes": 4060976
+    },
+    "models/V90_reconstruction.ifc": {
+      "sha256": "c747ca72fe783ad35566e595d08780fd7399a94f050675152d3ad58c30be65ac",
+      "bytes": 2951423
+    },
+    "data/components.json": {
+      "sha256": "c6cb86cb9d85d211bfdbf5e8669cfb9ec543dae80d6ad8fcce2b8b47838932b0",
+      "bytes": 467513
+    },
+    "data/components.csv": {
+      "sha256": "dde6ca78bd0baecf91b52e9652733645d46001143107fbcfcdc746537e7c09d3",
+      "bytes": 245994
+    },
+    "data/ifc_mapping.json": {
+      "sha256": "92ecadfde5f8f9e018e22e107352eba25adeaf787c1cf2b4d1349d20aec77e32",
+      "bytes": 246341
+    },
+    "viewer/index.html": {
+      "sha256": "d647f5119c79c2cd8c2888e66c5e4b38e0ba79c4772ba62cea586cf66e3cbc10",
+      "bytes": 27999
+    },
+    "viewer/viewer.bundle.js": {
+      "sha256": "1395695194b9b08116e79d8edafa3f1eda065403bac967bbe87080abf22934d7",
+      "bytes": 696336
+    },
+    "打开三维模型.html": {
+      "sha256": "a6ad3bcfcf30402ad1b8ec47035f357581479cc0f4f9fbcd2622857bee5d435a",
+      "bytes": 6508860
+    }
+  },
+  "verification": {
+    "node": "9 test files passed",
+    "browser": "Chromium R15 four scenarios, clear/ack, manual recovery, completion, replay isolation, reset and legacy selector passed",
+    "http": "blocked: sandbox denies socket creation",
+    "production": "not deployed; real source not provided"
+  }
+}

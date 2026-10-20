@@ -1,0 +1,14 @@
+No stream support: No module named 'lark'
+{
+  "file": "/home/zhangwz/解析视频/风机BIM交付/models/V90_reconstruction.ifc",
+  "schema": "IFC4",
+  "ifcopenshell_version": "0.9.0.post1",
+  "component_count": 410,
+  "functional_system_count": 12,
+  "triangles_read_by_geometry_engine": 65304,
+  "schema_validation": "IfcOpenShell attribute and EXPRESS rule validator",
+  "geometry_validation": "Reopened disk IFC; OpenCascade tessellation and per-component world bounding-box comparison",
+  "schema_errors": [],
+  "geometry_errors": [],
+  "status": "PASS"
+}

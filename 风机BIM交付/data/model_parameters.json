@@ -1,0 +1,109 @@
+{
+  "model_revision": "R06",
+  "target": "Vestas V90-2.0 MW, S01-era public-source reconstruction",
+  "source": "S01 p10",
+  "official_reference": {
+    "rated_power_kw": 2000,
+    "rotor_diameter_m": 90,
+    "blade_length_m": 44,
+    "max_chord_m": 3.9,
+    "nacelle_length_m": 10.4,
+    "nacelle_width_m": 3.5,
+    "transport_height_m": 4,
+    "installed_height_including_cooler_m": 5.4,
+    "hub_height_option_m": 80,
+    "generator": "双馈发电机，滑环",
+    "pitch": "3液压缸全顺桨叶片制动",
+    "gearbox": "手册表述：二级行星齿轮和一级螺旋齿轮"
+  },
+  "chosen_reconstruction": {
+    "hub_center_xyz_m": [
+      -3.5,
+      0,
+      80
+    ],
+    "rotor_axis": "X",
+    "tower_top_z_m": 78.3,
+    "tower_base_diameter_m": 4.3,
+    "tower_top_diameter_m": 2.5,
+    "tower_wall_m": 0.045,
+    "tower_sections": 3,
+    "shaft_tilt_deg": 0,
+    "cone_deg": 0,
+    "foundation_diameter_m": 16,
+    "foundation_thickness_m": 2.2
+  },
+  "unverified": [
+    "塔筒分段与壁厚",
+    "实际轴倾角、锥角与叶根偏置",
+    "齿轮齿数、传动比与齿形",
+    "轴承类型、内部滚动体及公差",
+    "叶片翼型、扭角、预弯与铺层",
+    "电控/变流器/变压器实际位置",
+    "偏航驱动数量",
+    "基础地质、配筋、锚固与荷载"
+  ],
+  "tower_internals": {
+    "source": "S02 GridStreamer p81: cross-version facility reference only; not DFIG batch confirmation",
+    "unit": "m",
+    "scale": "same as tower, no local enlargement",
+    "dimension_status": "estimated, not OEM verified",
+    "platform_heights_m": [
+      0.65,
+      25.45,
+      51.55,
+      77.65
+    ],
+    "ladder_width_m": 0.54,
+    "rung_spacing_m": 0.3,
+    "door_opening_m": [
+      1.05,
+      2.2
+    ],
+    "platform_access_opening_m": [
+      0.76,
+      0.82
+    ]
+  },
+  "electrical_reconstruction": {
+    "configuration": "DFIG functional reconstruction; historical VCS reference; not GridStreamer",
+    "transformer_location": "rear nacelle, historic brochure reference; exact geometry estimated",
+    "switchgear": "optional, selected in this reconstruction; tower-bottom location estimated",
+    "energy_storage": "DC-link capacitors only; no confirmed battery/UPS included",
+    "power_paths": "stator to AC bus; rotor via bidirectional RSC/DC-link/GSC/filter to AC bus; transformer to tower MV cables, optional switchgear and collector interface",
+    "unverified": "ratings, voltages, gear teeth, cable schedules, clearances, equipment sizes/counts, detailed circuit and exact batch"
+  },
+  "wind_sensor_reconstruction": {
+    "configuration_source": "S05, 2010 V90 VCS historical specification, p17 section 3.6",
+    "sensor_count": 2,
+    "type_reference": "FT702LT with built-in heating",
+    "geometry_evidence": "C - estimated",
+    "positions_m": [
+      [
+        8.9,
+        0.9,
+        83.98
+      ],
+      [
+        8.9,
+        -0.9,
+        83.98
+      ]
+    ],
+    "limitations": "安装位置、外形、标高、支架和线缆均为示意；S01批次适用性未确认。"
+  },
+  "drivetrain_module": {
+    "source": "S05 (2010 V90 50Hz VCS), pp7-8",
+    "stages": "one planetary and two helical",
+    "nominal_speed_ratio": 112.8,
+    "geometry": "C functional envelopes; static intermediate gears",
+    "unverified": [
+      "individual stage ratios",
+      "tooth counts and exact profiles",
+      "planet count",
+      "internal shaft distances"
+    ],
+    "conflict": "S01中文手册为两级行星+一级斜齿；本模块独立采用S05历史配置，不证明同批次一致。",
+    "animation": "input and output shafts only; global slow motion scales time equally"
+  }
+}

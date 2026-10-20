@@ -1,0 +1,1257 @@
+Failed to create secure directory (/run/user/0/pulse): Read-only file system
+pa_write() failed while trying to wake up the mainloop: Operation not permitted
+/usr/share/blender/scripts/addons/io_scene_gltf2/io/exp/gltf2_io_image_data.py:25: SyntaxWarning: invalid escape sequence '\.'
+  regex_dot = re.compile("\.")
+/usr/share/blender/scripts/addons/io_scene_gltf2/io/exp/gltf2_io_image_data.py:27: SyntaxWarning: invalid escape sequence '\]'
+  new_name = "".join([char for char in adjusted_name if char not in "!#$&'()*+,/:;<>?@[\]^`{|}~"])
+03:11:04 | ERROR: Draco mesh compression is not available because library could not be found at /usr/bin/4.0/python/lib/python3.12/site-packages/libextern_draco.so
+03:11:05 | INFO: Starting glTF 2.0 export
+03:11:05 | INFO: Extracting primitive: Cone
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.001
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: TOWER.SECTION.1
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: TOWER.FLANGE.1
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: TOWER.BOLTS.1
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: TOWER.SECTION.2
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: TOWER.FLANGE.2
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: TOWER.BOLTS.2
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: TOWER.SECTION.3
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: TOWER.FLANGE.3
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: TOWER.BOLTS.3
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.001
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.002
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.003
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.004
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: TOWER.LADDER.RAIL.-0.23
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: TOWER.LADDER.RAIL.0.23
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: TOWER.LADDER.RUNGS
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: TOWER.CABLE
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: YAW.BEARING
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: YAW.GEAR
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: YAW.BOLTS
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.005
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.006
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.007
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.008
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.009
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.010
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.011
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.012
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.013
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.014
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.015
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.016
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.002
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.003
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.004
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.005
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.006
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.007
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.008
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.009
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.010
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Sphere.001
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.017
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.018
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: DRIVE.ROTOR.BOLTS
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.011
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: DRIVE.BEARING
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: DRIVE.BEARING.BOLTS
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.019
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.020
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.012
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: GEARBOX.FLANGE.0
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: GEARBOX.BOLTS.0
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: GEARBOX.FLANGE.1
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: GEARBOX.BOLTS.1
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: GEARBOX.FLANGE.2
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: GEARBOX.BOLTS.2
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.013
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.021
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.014
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.022
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.023
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: DRIVE.BRAKE.DISC
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.015
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: DRIVE.COUPLING.4.15
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: DRIVE.COUPLING.4.33
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.024
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.025
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: GENERATOR.BOLTS.0
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.026
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: GENERATOR.BOLTS.1
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.016
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.017
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.018
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.019
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.020
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.021
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.022
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.023
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.024
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.025
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.026
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.027
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.028
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.029
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.030
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.031
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.032
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.033
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.034
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.027
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.035
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.036
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.037
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: ELEC.CABLE.0
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: ELEC.CABLE.1
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: ELEC.CABLE.2
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.038
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.028
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.029
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.039
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.030
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cone.031
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: LUBE.PIPE
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: COOL.PIPE.0
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: COOL.PIPE.1
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.040
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.041
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.042
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.043
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.044
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.045
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.046
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.047
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.048
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.049
+03:11:05 | INFO: Primitives created: 1
+03:11:05 | INFO: Extracting primitive: Cube.050
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.051
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.052
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.053
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.054
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.055
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.056
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.057
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.058
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.059
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.060
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.061
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.062
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.063
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.064
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.065
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: SENSOR.MAST
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.032
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.033
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.034
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.066
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: SERVICE.POST.-0.8
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: SERVICE.POST.2.3
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: SERVICE.POST.5.4
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: SERVICE.POST.7.8
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: SERVICE.RAIL
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.067
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.068
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: SERVICE.CHAIN
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Sphere
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.BEARING.1
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.BOLTS.1
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.CYLINDER.1
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.ROD.1
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.BEARING.2
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.BOLTS.2
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.CYLINDER.2
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.ROD.2
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.BEARING.3
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.BOLTS.3
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.CYLINDER.3
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.ROD.3
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: ROTOR.BLADE.1
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: ROTOR.BLADE.2
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: ROTOR.BLADE.3
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Finished glTF 2.0 export in 0.6806197166442871 s
+
+03:11:06 | ERROR: Draco mesh compression is not available because library could not be found at /usr/bin/4.0/python/lib/python3.12/site-packages/libextern_draco.so
+03:11:06 | INFO: Starting glTF 2.0 export
+03:11:06 | INFO: Extracting primitive: YAW.BEARING
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: YAW.GEAR
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: YAW.BOLTS
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.005
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.006
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.007
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.008
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.009
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.010
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.011
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.012
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.013
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.014
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.015
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.016
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.002
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.003
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.004
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.005
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.006
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.007
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.008
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.009
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.010
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Sphere.001
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.017
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.018
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: DRIVE.ROTOR.BOLTS
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.011
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: DRIVE.BEARING
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: DRIVE.BEARING.BOLTS
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.019
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.020
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.012
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: GEARBOX.FLANGE.0
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: GEARBOX.BOLTS.0
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: GEARBOX.FLANGE.1
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: GEARBOX.BOLTS.1
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: GEARBOX.FLANGE.2
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: GEARBOX.BOLTS.2
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.013
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.021
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.014
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.022
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.023
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: DRIVE.BRAKE.DISC
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.015
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: DRIVE.COUPLING.4.15
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: DRIVE.COUPLING.4.33
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.024
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.025
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: GENERATOR.BOLTS.0
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.026
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: GENERATOR.BOLTS.1
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.016
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.017
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.018
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.019
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.020
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.021
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.022
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.023
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.024
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.025
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.026
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.027
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.028
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.029
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.030
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.031
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.032
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.033
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.034
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.027
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.035
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.036
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: ELEC.CABLE.0
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: ELEC.CABLE.1
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: ELEC.CABLE.2
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.038
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.028
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.029
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.039
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.030
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.031
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: LUBE.PIPE
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: COOL.PIPE.0
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: COOL.PIPE.1
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.040
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.041
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.042
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.043
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.044
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.045
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.046
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.047
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.048
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.049
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.050
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.051
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.052
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.053
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.054
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.055
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.056
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.057
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.058
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.059
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.060
+Blender 4.0.2
+Info: Total files 0 | Changed 0 | Failed 0
+Fra:1 Mem:27.43M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.BEARING | 偏航轴承
+Fra:1 Mem:27.43M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.GEAR | 偏航齿圈示意
+Fra:1 Mem:27.47M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.BOLTS | 偏航连接螺栓组
+Fra:1 Mem:27.48M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.1 | 偏航驱动电机1
+Fra:1 Mem:27.50M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.1 | 偏航减速器1
+Fra:1 Mem:27.52M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.2 | 偏航驱动电机2
+Fra:1 Mem:27.52M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.2 | 偏航减速器2
+Fra:1 Mem:27.52M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.3 | 偏航驱动电机3
+Fra:1 Mem:27.53M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.3 | 偏航减速器3
+Fra:1 Mem:27.53M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.4 | 偏航驱动电机4
+Fra:1 Mem:27.54M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.4 | 偏航减速器4
+Fra:1 Mem:27.54M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.5 | 偏航驱动电机5
+Fra:1 Mem:27.54M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.5 | 偏航减速器5
+Fra:1 Mem:27.55M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.6 | 偏航驱动电机6
+Fra:1 Mem:27.55M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.6 | 偏航减速器6
+Fra:1 Mem:27.55M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FRAME.BASE | 机舱承载底架
+Fra:1 Mem:27.56M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FRAME.RAIL.-1.05 | 纵向支承梁
+Fra:1 Mem:27.57M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FRAME.RAIL.1.05 | 纵向支承梁
+Fra:1 Mem:27.57M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.SHAFT | 低速主轴
+Fra:1 Mem:27.58M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.ROTOR.FLANGE | 轮毂主轴连接法兰
+Fra:1 Mem:27.59M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.ROTOR.BOLTS | 轮毂主轴螺栓组
+Fra:1 Mem:27.59M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BEARING.SEAT | 主轴承座
+Fra:1 Mem:27.62M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BEARING | 主轴承外观
+Fra:1 Mem:27.64M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BEARING.BOLTS | 主轴承座端盖螺栓组
+Fra:1 Mem:27.64M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.STAGE.1 | 齿轮箱一级壳体
+Fra:1 Mem:27.66M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.STAGE.2 | 齿轮箱二级壳体
+Fra:1 Mem:27.66M (Peak 27.67M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.HIGH | 齿轮箱高速级壳体
+Fra:1 Mem:27.68M (Peak 27.68M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.FLANGE.0 | 齿轮箱壳体法兰
+Fra:1 Mem:27.69M (Peak 27.69M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BOLTS.0 | 齿轮箱端盖螺栓组
+Fra:1 Mem:27.72M (Peak 27.72M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.FLANGE.1 | 齿轮箱壳体法兰
+Fra:1 Mem:27.73M (Peak 27.74M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BOLTS.1 | 齿轮箱端盖螺栓组
+Fra:1 Mem:27.76M (Peak 27.76M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.FLANGE.2 | 齿轮箱壳体法兰
+Fra:1 Mem:27.78M (Peak 27.78M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BOLTS.2 | 齿轮箱端盖螺栓组
+Fra:1 Mem:27.79M (Peak 27.79M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.TORQUE.-0.8 | 齿轮箱扭力臂
+Fra:1 Mem:27.81M (Peak 27.81M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BUSH.-0.8 | 扭力臂支承示意
+Fra:1 Mem:27.81M (Peak 27.81M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BUSH.0.8 | 扭力臂支承示意
+Fra:1 Mem:27.81M (Peak 27.81M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.HIGH.SHAFT | 高速轴
+Fra:1 Mem:27.83M (Peak 27.83M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BRAKE.DISC | 高速轴制动盘
+Fra:1 Mem:27.85M (Peak 27.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BRAKE.CALIPER | 制动钳示意
+Fra:1 Mem:27.85M (Peak 27.85M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.COUPLING.4.15 | 弹性联轴器盘
+Fra:1 Mem:27.87M (Peak 27.87M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.BODY | 双馈异步发电机机体
+Fra:1 Mem:27.87M (Peak 27.87M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.END.0 | 发电机端盖
+Fra:1 Mem:27.89M (Peak 27.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.BOLTS.0 | 发电机端盖螺栓组
+Fra:1 Mem:27.89M (Peak 27.89M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.END.1 | 发电机端盖
+Fra:1 Mem:27.93M (Peak 27.93M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.BOLTS.1 | 发电机端盖螺栓组
+Fra:1 Mem:27.94M (Peak 27.94M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.0 | 发电机外部散热筋示意
+Fra:1 Mem:27.95M (Peak 27.95M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.1 | 发电机外部散热筋示意
+Fra:1 Mem:27.96M (Peak 27.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.2 | 发电机外部散热筋示意
+Fra:1 Mem:27.96M (Peak 27.96M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.3 | 发电机外部散热筋示意
+Fra:1 Mem:27.97M (Peak 27.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.4 | 发电机外部散热筋示意
+Fra:1 Mem:27.97M (Peak 27.97M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.5 | 发电机外部散热筋示意
+Fra:1 Mem:27.98M (Peak 27.98M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.6 | 发电机外部散热筋示意
+Fra:1 Mem:27.99M (Peak 27.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.7 | 发电机外部散热筋示意
+Fra:1 Mem:27.99M (Peak 27.99M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.8 | 发电机外部散热筋示意
+Fra:1 Mem:28.00M (Peak 28.00M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.9 | 发电机外部散热筋示意
+Fra:1 Mem:28.00M (Peak 28.00M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.10 | 发电机外部散热筋示意
+Fra:1 Mem:28.01M (Peak 28.01M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.11 | 发电机外部散热筋示意
+Fra:1 Mem:28.02M (Peak 28.02M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.12 | 发电机外部散热筋示意
+Fra:1 Mem:28.03M (Peak 28.03M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FOOT.4.9.-0.49 | 发电机支脚
+Fra:1 Mem:28.04M (Peak 28.04M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FOOT.4.9.0.49 | 发电机支脚
+Fra:1 Mem:28.04M (Peak 28.04M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FOOT.6.5.-0.49 | 发电机支脚
+Fra:1 Mem:28.05M (Peak 28.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FOOT.6.5.0.49 | 发电机支脚
+Fra:1 Mem:28.05M (Peak 28.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.TERMINAL | 发电机接线盒
+Fra:1 Mem:28.06M (Peak 28.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.SLIPRING | 滑环舱外罩
+Fra:1 Mem:28.07M (Peak 28.07M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ELEC.CABINET.1 | 电控柜包络示意
+Fra:1 Mem:28.08M (Peak 28.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ELEC.CABINET.2 | 变流设备包络待核实
+Fra:1 Mem:28.08M (Peak 28.08M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ELEC.CABLE.0 | 机舱电缆桥接示意
+Fra:1 Mem:28.09M (Peak 28.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ELEC.CABLE.1 | 机舱电缆桥接示意
+Fra:1 Mem:28.09M (Peak 28.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ELEC.CABLE.2 | 机舱电缆桥接示意
+Fra:1 Mem:28.10M (Peak 28.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LUBE.TANK | 齿轮箱润滑油箱示意
+Fra:1 Mem:28.10M (Peak 28.10M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LUBE.FILTER | 润滑过滤器
+Fra:1 Mem:28.11M (Peak 28.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LUBE.PUMP | 润滑泵组
+Fra:1 Mem:28.11M (Peak 28.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | HYDRAULIC.ACC.0 | 液压蓄能器示意
+Fra:1 Mem:28.13M (Peak 28.13M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | HYDRAULIC.ACC.1 | 液压蓄能器示意
+Fra:1 Mem:28.14M (Peak 28.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.PIPE.0 | 顶部冷却管路示意
+Fra:1 Mem:28.14M (Peak 28.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.PIPE.1 | 顶部冷却管路示意
+Fra:1 Mem:28.14M (Peak 28.14M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FRAME | CoolerTop顶部冷却器框架
+Fra:1 Mem:28.15M (Peak 28.15M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.RADIATOR | 顶部换热面
+Fra:1 Mem:28.16M (Peak 28.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.0 | 换热面栅格示意
+Fra:1 Mem:28.16M (Peak 28.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.1 | 换热面栅格示意
+Fra:1 Mem:28.16M (Peak 28.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.2 | 换热面栅格示意
+Fra:1 Mem:28.16M (Peak 28.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.3 | 换热面栅格示意
+Fra:1 Mem:28.16M (Peak 28.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.4 | 换热面栅格示意
+Fra:1 Mem:28.16M (Peak 28.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.5 | 换热面栅格示意
+Fra:1 Mem:28.16M (Peak 28.16M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.6 | 换热面栅格示意
+Fra:1 Mem:28.17M (Peak 28.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.7 | 换热面栅格示意
+Fra:1 Mem:28.17M (Peak 28.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.8 | 换热面栅格示意
+Fra:1 Mem:28.17M (Peak 28.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.9 | 换热面栅格示意
+Fra:1 Mem:28.17M (Peak 28.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.10 | 换热面栅格示意
+Fra:1 Mem:28.17M (Peak 28.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.11 | 换热面栅格示意
+Fra:1 Mem:28.17M (Peak 28.17M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.12 | 换热面栅格示意
+Fra:1 Mem:28.17M (Peak 28.17M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.15 | 换热面栅格示意
+Fra:1 Mem:28.17M (Peak 28.17M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.17 | 换热面栅格示意
+Fra:1 Mem:28.17M (Peak 28.17M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.18 | 换热面栅格示意
+Fra:1 Mem:28.17M (Peak 28.17M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.19 | 换热面栅格示意
+Fra:1 Mem:28.17M (Peak 28.17M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.20 | 换热面栅格示意
+Fra:1 Mem:28.17M (Peak 28.17M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.21 | 换热面栅格示意
+Fra:1 Mem:28.18M (Peak 28.18M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.SUPPORT.5.9 | 冷却器支架
+Fra:1 Mem:28.18M (Peak 28.18M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SENSOR.MAST | 气象传感器支杆
+Fra:1 Mem:28.18M (Peak 28.18M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SENSOR.WIND | 风速风向仪包络
+Fra:1 Mem:28.19M (Peak 28.19M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SAFETY.BEACON | 航空警示灯
+Fra:1 Mem:28.19M (Peak 28.19M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SAFETY.FIRE | 消防设备位置示意
+Fra:1 Mem:28.20M (Peak 28.20M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.WALK | 机舱检修通道
+Fra:1 Mem:28.21M (Peak 28.21M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.POST.-0.8 | 检修护栏立柱
+Fra:1 Mem:28.21M (Peak 28.21M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.POST.2.3 | 检修护栏立柱
+Fra:1 Mem:28.21M (Peak 28.21M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.POST.5.4 | 检修护栏立柱
+Fra:1 Mem:28.21M (Peak 28.21M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.POST.7.8 | 检修护栏立柱
+Fra:1 Mem:28.21M (Peak 28.21M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.RAIL | 检修护栏
+Fra:1 Mem:28.21M (Peak 28.21M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.CRANE.BEAM | 检修吊装梁示意
+Fra:1 Mem:28.22M (Peak 28.22M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.HOIST | 检修葫芦示意
+Fra:1 Mem:28.23M (Peak 28.23M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.ROD.3 | 变桨活塞杆3
+Fra:1 Mem:28.23M (Peak 28.23M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.CHAIN | 吊钩链条示意
+Fra:1 Mem:28.23M (Peak 28.23M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.CYLINDER.3 | 变桨液压缸3
+Fra:1 Mem:28.23M (Peak 28.23M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ROTOR.HUB | 轮毂主体重建
+Fra:1 Mem:28.24M (Peak 28.24M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BEARING.1 | 叶片1变桨轴承
+Fra:1 Mem:28.33M (Peak 28.33M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BOLTS.1 | 叶根螺栓组1
+Fra:1 Mem:28.38M (Peak 28.38M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.CYLINDER.1 | 变桨液压缸1
+Fra:1 Mem:28.39M (Peak 28.39M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BOLTS.3 | 叶根螺栓组3
+Fra:1 Mem:28.41M (Peak 28.41M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BOLTS.2 | 叶根螺栓组2
+Fra:1 Mem:28.43M (Peak 28.43M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.CYLINDER.2 | 变桨液压缸2
+Fra:1 Mem:28.44M (Peak 28.44M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.ROD.2 | 变桨活塞杆2
+Fra:1 Mem:28.50M (Peak 28.50M) | Time:00:00.04 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:23.25M (Peak 28.50M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:23.25M (Peak 28.50M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:23.25M (Peak 28.50M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:23.25M (Peak 28.50M) | Time:00:00.05 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.05 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:23.37M (Peak 28.50M) | Time:00:00.05 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:23.37M (Peak 28.50M) | Time:00:00.05 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:23.37M (Peak 28.50M) | Time:00:00.05 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:23.37M (Peak 28.50M) | Time:00:00.05 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:23.74M (Peak 28.50M) | Time:00:00.05 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:23.92M (Peak 28.50M) | Time:00:00.05 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:23.90M (Peak 28.50M) | Time:00:00.05 | Mem:0.19M, Peak:0.19M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:23.90M (Peak 28.50M) | Time:00:00.05 | Mem:0.19M, Peak:0.19M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:23.90M (Peak 28.50M) | Time:00:00.05 | Mem:0.94M, Peak:0.94M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:23.90M (Peak 28.50M) | Time:00:00.06 | Mem:1.82M, Peak:2.57M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:23.90M (Peak 28.50M) | Time:00:00.06 | Mem:1.82M, Peak:2.57M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.06 | Mem:1.82M, Peak:2.57M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.06 | Mem:2.68M, Peak:2.68M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.06 | Mem:2.69M, Peak:2.69M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.06 | Mem:2.69M, Peak:2.69M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.06 | Mem:2.69M, Peak:2.69M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.06 | Mem:2.69M, Peak:2.69M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.06 | Mem:2.77M, Peak:2.77M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.06 | Mem:2.77M, Peak:2.77M | Scene, ViewLayer | Updating Lights | Computing distribution
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.06 | Mem:2.77M, Peak:2.77M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:24.77M (Peak 28.50M) | Time:00:00.06 | Mem:2.77M, Peak:2.77M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:25.77M (Peak 28.50M) | Time:00:00.06 | Mem:3.77M, Peak:3.77M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:25.77M (Peak 28.50M) | Time:00:00.06 | Mem:3.69M, Peak:3.77M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.77M (Peak 28.50M) | Time:00:00.06 | Mem:3.77M, Peak:3.77M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:25.77M (Peak 28.50M) | Time:00:00.06 | Mem:3.77M, Peak:3.77M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:25.77M (Peak 28.50M) | Time:00:00.06 | Mem:3.77M, Peak:3.77M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:86.22M (Peak 86.22M) | Time:00:01.20 | Remaining:00:53.75 | Mem:64.20M, Peak:64.20M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:86.22M (Peak 86.22M) | Time:00:28.56 | Remaining:00:12.95 | Mem:64.20M, Peak:64.20M | Scene, ViewLayer | Sample 33/48
+Fra:1 Mem:113.08M (Peak 166.79M) | Time:00:40.96 | Mem:64.20M, Peak:64.20M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:113.08M (Peak 166.79M) | Time:00:40.96 | Mem:64.20M, Peak:64.20M | Scene, ViewLayer | Finished
+Saved: '/home/zhangwz/解析视频/风机BIM交付/preview/02_机舱开放.png'
+Time: 00:41.94 (Saving: 00:00.95)
+
+Fra:1 Mem:27.43M (Peak 27.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.BEARING | 偏航轴承
+Fra:1 Mem:27.43M (Peak 27.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.BOLTS | 偏航连接螺栓组
+Fra:1 Mem:27.44M (Peak 27.44M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.1 | 偏航驱动电机1
+Fra:1 Mem:27.49M (Peak 27.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.1 | 偏航减速器1
+Fra:1 Mem:27.49M (Peak 27.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.2 | 偏航驱动电机2
+Fra:1 Mem:27.52M (Peak 27.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.3 | 偏航驱动电机3
+Fra:1 Mem:27.52M (Peak 27.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.3 | 偏航减速器3
+Fra:1 Mem:27.52M (Peak 27.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.4 | 偏航减速器4
+Fra:1 Mem:27.53M (Peak 27.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.5 | 偏航驱动电机5
+Fra:1 Mem:27.53M (Peak 27.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.5 | 偏航减速器5
+Fra:1 Mem:27.53M (Peak 27.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.6 | 偏航驱动电机6
+Fra:1 Mem:27.54M (Peak 27.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.6 | 偏航减速器6
+Fra:1 Mem:27.54M (Peak 27.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FRAME.BASE | 机舱承载底架
+Fra:1 Mem:27.55M (Peak 27.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FRAME.RAIL.1.05 | 纵向支承梁
+Fra:1 Mem:27.55M (Peak 27.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.SHAFT | 低速主轴
+Fra:1 Mem:27.57M (Peak 27.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.ROTOR.FLANGE | 轮毂主轴连接法兰
+Fra:1 Mem:27.58M (Peak 27.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.ROTOR.BOLTS | 轮毂主轴螺栓组
+Fra:1 Mem:27.58M (Peak 27.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BEARING.SEAT | 主轴承座
+Fra:1 Mem:27.58M (Peak 27.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BEARING | 主轴承外观
+Fra:1 Mem:27.60M (Peak 27.60M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BEARING.BOLTS | 主轴承座端盖螺栓组
+Fra:1 Mem:27.64M (Peak 27.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.STAGE.1 | 齿轮箱一级壳体
+Fra:1 Mem:27.65M (Peak 27.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.STAGE.2 | 齿轮箱二级壳体
+Fra:1 Mem:27.65M (Peak 27.65M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.FLANGE.0 | 齿轮箱壳体法兰
+Fra:1 Mem:27.67M (Peak 27.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BOLTS.0 | 齿轮箱端盖螺栓组
+Fra:1 Mem:27.70M (Peak 27.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.FLANGE.1 | 齿轮箱壳体法兰
+Fra:1 Mem:27.71M (Peak 27.71M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BOLTS.1 | 齿轮箱端盖螺栓组
+Fra:1 Mem:27.74M (Peak 27.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BOLTS.2 | 齿轮箱端盖螺栓组
+Fra:1 Mem:27.75M (Peak 27.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BUSH.-0.8 | 扭力臂支承示意
+Fra:1 Mem:27.78M (Peak 27.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.TORQUE.0.8 | 齿轮箱扭力臂
+Fra:1 Mem:27.79M (Peak 27.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BUSH.0.8 | 扭力臂支承示意
+Fra:1 Mem:27.81M (Peak 27.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.HIGH.SHAFT | 高速轴
+Fra:1 Mem:27.82M (Peak 27.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BRAKE.DISC | 高速轴制动盘
+Fra:1 Mem:27.82M (Peak 27.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.COUPLING.4.15 | 弹性联轴器盘
+Fra:1 Mem:27.85M (Peak 27.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.COUPLING.4.33 | 弹性联轴器盘
+Fra:1 Mem:27.88M (Peak 27.88M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.BODY | 双馈异步发电机机体
+Fra:1 Mem:27.90M (Peak 27.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.BOLTS.0 | 发电机端盖螺栓组
+Fra:1 Mem:27.91M (Peak 27.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.END.1 | 发电机端盖
+Fra:1 Mem:27.94M (Peak 27.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.0 | 发电机外部散热筋示意
+Fra:1 Mem:27.94M (Peak 27.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.2 | 发电机外部散热筋示意
+Fra:1 Mem:27.95M (Peak 27.95M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.3 | 发电机外部散热筋示意
+Fra:1 Mem:27.96M (Peak 27.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.4 | 发电机外部散热筋示意
+Fra:1 Mem:27.96M (Peak 27.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.5 | 发电机外部散热筋示意
+Fra:1 Mem:27.96M (Peak 27.96M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.6 | 发电机外部散热筋示意
+Fra:1 Mem:27.99M (Peak 27.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.7 | 发电机外部散热筋示意
+Fra:1 Mem:27.99M (Peak 27.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.8 | 发电机外部散热筋示意
+Fra:1 Mem:28.00M (Peak 28.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.9 | 发电机外部散热筋示意
+Fra:1 Mem:28.01M (Peak 28.01M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.10 | 发电机外部散热筋示意
+Fra:1 Mem:28.02M (Peak 28.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.12 | 发电机外部散热筋示意
+Fra:1 Mem:28.02M (Peak 28.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.13 | 发电机外部散热筋示意
+Fra:1 Mem:28.03M (Peak 28.03M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FOOT.4.9.-0.49 | 发电机支脚
+Fra:1 Mem:28.03M (Peak 28.03M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FOOT.4.9.0.49 | 发电机支脚
+Fra:1 Mem:28.04M (Peak 28.04M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FOOT.6.5.-0.49 | 发电机支脚
+Fra:1 Mem:28.05M (Peak 28.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.TERMINAL | 发电机接线盒
+Fra:1 Mem:28.06M (Peak 28.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.SLIPRING | 滑环舱外罩
+Fra:1 Mem:28.08M (Peak 28.08M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ELEC.CABINET.1 | 电控柜包络示意
+Fra:1 Mem:28.08M (Peak 28.08M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ELEC.CABLE.1 | 机舱电缆桥接示意
+Fra:1 Mem:28.09M (Peak 28.09M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ELEC.CABLE.2 | 机舱电缆桥接示意
+Fra:1 Mem:28.10M (Peak 28.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.ROD.3 | 变桨活塞杆3
+Fra:1 Mem:28.11M (Peak 28.11M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LUBE.FILTER | 润滑过滤器
+Fra:1 Mem:28.11M (Peak 28.11M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | HYDRAULIC.ACC.0 | 液压蓄能器示意
+Fra:1 Mem:28.13M (Peak 28.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | HYDRAULIC.ACC.1 | 液压蓄能器示意
+Fra:1 Mem:28.13M (Peak 28.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LUBE.PIPE | 润滑回路示意
+Fra:1 Mem:28.14M (Peak 28.14M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.PIPE.0 | 顶部冷却管路示意
+Fra:1 Mem:28.14M (Peak 28.14M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.PIPE.1 | 顶部冷却管路示意
+Fra:1 Mem:28.14M (Peak 28.14M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.CYLINDER.3 | 变桨液压缸3
+Fra:1 Mem:28.15M (Peak 28.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FRAME | CoolerTop顶部冷却器框架
+Fra:1 Mem:28.15M (Peak 28.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BOLTS.3 | 叶根螺栓组3
+Fra:1 Mem:28.20M (Peak 28.20M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.0 | 换热面栅格示意
+Fra:1 Mem:28.20M (Peak 28.20M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.3 | 换热面栅格示意
+Fra:1 Mem:28.20M (Peak 28.20M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.4 | 换热面栅格示意
+Fra:1 Mem:28.22M (Peak 28.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.5 | 换热面栅格示意
+Fra:1 Mem:28.23M (Peak 28.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.6 | 换热面栅格示意
+Fra:1 Mem:28.23M (Peak 28.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.7 | 换热面栅格示意
+Fra:1 Mem:28.23M (Peak 28.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.8 | 换热面栅格示意
+Fra:1 Mem:28.23M (Peak 28.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.9 | 换热面栅格示意
+Fra:1 Mem:28.23M (Peak 28.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.10 | 换热面栅格示意
+Fra:1 Mem:28.23M (Peak 28.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.11 | 换热面栅格示意
+Fra:1 Mem:28.24M (Peak 28.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.CYLINDER.2 | 变桨液压缸2
+Fra:1 Mem:28.24M (Peak 28.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.13 | 换热面栅格示意
+Fra:1 Mem:28.24M (Peak 28.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.14 | 换热面栅格示意
+Fra:1 Mem:28.24M (Peak 28.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.15 | 换热面栅格示意
+Fra:1 Mem:28.24M (Peak 28.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.16 | 换热面栅格示意
+Fra:1 Mem:28.24M (Peak 28.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.17 | 换热面栅格示意
+Fra:1 Mem:28.24M (Peak 28.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.18 | 换热面栅格示意
+Fra:1 Mem:28.24M (Peak 28.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.19 | 换热面栅格示意
+Fra:1 Mem:28.24M (Peak 28.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.20 | 换热面栅格示意
+Fra:1 Mem:28.24M (Peak 28.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.21 | 换热面栅格示意
+Fra:1 Mem:28.24M (Peak 28.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.SUPPORT.8.3 | 冷却器支架
+Fra:1 Mem:28.24M (Peak 28.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BOLTS.2 | 叶根螺栓组2
+Fra:1 Mem:28.27M (Peak 28.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SENSOR.MAST | 气象传感器支杆
+Fra:1 Mem:28.28M (Peak 28.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SENSOR.WIND | 风速风向仪包络
+Fra:1 Mem:28.29M (Peak 28.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BEARING.2 | 叶片2变桨轴承
+Fra:1 Mem:28.30M (Peak 28.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SAFETY.BEACON | 航空警示灯
+Fra:1 Mem:28.30M (Peak 28.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.WALK | 机舱检修通道
+Fra:1 Mem:28.31M (Peak 28.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.POST.-0.8 | 检修护栏立柱
+Fra:1 Mem:28.31M (Peak 28.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.POST.5.4 | 检修护栏立柱
+Fra:1 Mem:28.31M (Peak 28.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.POST.7.8 | 检修护栏立柱
+Fra:1 Mem:28.33M (Peak 28.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.RAIL | 检修护栏
+Fra:1 Mem:28.33M (Peak 28.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.ROD.1 | 变桨活塞杆1
+Fra:1 Mem:28.33M (Peak 28.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.CYLINDER.1 | 变桨液压缸1
+Fra:1 Mem:28.34M (Peak 28.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.HOIST | 检修葫芦示意
+Fra:1 Mem:28.34M (Peak 28.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BOLTS.1 | 叶根螺栓组1
+Fra:1 Mem:28.35M (Peak 28.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.CHAIN | 吊钩链条示意
+Fra:1 Mem:28.35M (Peak 28.35M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ROTOR.HUB | 轮毂主体重建
+Fra:1 Mem:28.35M (Peak 28.36M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BEARING.1 | 叶片1变桨轴承
+Fra:1 Mem:28.50M (Peak 28.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:23.25M (Peak 28.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:23.25M (Peak 28.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:23.25M (Peak 28.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:23.25M (Peak 28.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:23.37M (Peak 28.50M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:23.37M (Peak 28.50M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:23.37M (Peak 28.50M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:23.37M (Peak 28.50M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:23.74M (Peak 28.50M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:23.92M (Peak 28.50M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:23.90M (Peak 28.50M) | Time:00:00.03 | Mem:0.19M, Peak:0.19M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:23.90M (Peak 28.50M) | Time:00:00.03 | Mem:0.19M, Peak:0.19M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:23.90M (Peak 28.50M) | Time:00:00.03 | Mem:0.94M, Peak:0.94M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:23.90M (Peak 28.50M) | Time:00:00.04 | Mem:1.82M, Peak:2.57M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:23.90M (Peak 28.50M) | Time:00:00.04 | Mem:1.82M, Peak:2.57M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.04 | Mem:1.82M, Peak:2.57M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.04 | Mem:2.68M, Peak:2.68M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.04 | Mem:2.69M, Peak:2.69M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.04 | Mem:2.69M, Peak:2.69M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.04 | Mem:2.69M, Peak:2.69M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.04 | Mem:2.69M, Peak:2.69M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.04 | Mem:2.77M, Peak:2.77M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.04 | Mem:2.77M, Peak:2.77M | Scene, ViewLayer | Updating Lights | Computing distribution
+Fra:1 Mem:24.76M (Peak 28.50M) | Time:00:00.04 | Mem:2.77M, Peak:2.77M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:24.77M (Peak 28.50M) | Time:00:00.04 | Mem:2.77M, Peak:2.77M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:25.77M (Peak 28.50M) | Time:00:00.04 | Mem:3.77M, Peak:3.77M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:25.77M (Peak 28.50M) | Time:00:00.04 | Mem:3.69M, Peak:3.77M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.77M (Peak 28.50M) | Time:00:00.04 | Mem:3.77M, Peak:3.77M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:25.77M (Peak 28.50M) | Time:00:00.04 | Mem:3.77M, Peak:3.77M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:25.77M (Peak 28.50M) | Time:00:00.04 | Mem:3.77M, Peak:3.77M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:86.22M (Peak 86.22M) | Time:00:01.02 | Remaining:00:45.96 | Mem:64.20M, Peak:64.20M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:86.22M (Peak 86.22M) | Time:00:25.66 | Remaining:00:11.64 | Mem:64.20M, Peak:64.20M | Scene, ViewLayer | Sample 33/48
+Fra:1 Mem:113.08M (Peak 166.79M) | Time:00:37.75 | Mem:64.20M, Peak:64.20M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:113.08M (Peak 166.79M) | Time:00:37.75 | Mem:64.20M, Peak:64.20M | Scene, ViewLayer | Finished
+Saved: '/home/zhangwz/解析视频/风机BIM交付/preview/03_传动链侧视.png'
+Time: 00:38.23 (Saving: 00:00.46)
+
+Fra:1 Mem:27.43M (Peak 27.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.BEARING | 偏航轴承
+Fra:1 Mem:27.44M (Peak 27.44M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.1 | 偏航驱动电机1
+Fra:1 Mem:27.45M (Peak 27.45M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.1 | 偏航减速器1
+Fra:1 Mem:27.48M (Peak 27.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.2 | 偏航减速器2
+Fra:1 Mem:27.48M (Peak 27.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.3 | 偏航驱动电机3
+Fra:1 Mem:27.48M (Peak 27.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.3 | 偏航减速器3
+Fra:1 Mem:27.52M (Peak 27.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.4 | 偏航驱动电机4
+Fra:1 Mem:27.53M (Peak 27.53M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.4 | 偏航减速器4
+Fra:1 Mem:27.54M (Peak 27.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.5 | 偏航减速器5
+Fra:1 Mem:27.54M (Peak 27.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.6 | 偏航驱动电机6
+Fra:1 Mem:27.55M (Peak 27.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FRAME.BASE | 机舱承载底架
+Fra:1 Mem:27.55M (Peak 27.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FRAME.RAIL.-1.05 | 纵向支承梁
+Fra:1 Mem:27.56M (Peak 27.56M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FRAME.RAIL.1.05 | 纵向支承梁
+Fra:1 Mem:27.57M (Peak 27.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.SHAFT | 低速主轴
+Fra:1 Mem:27.58M (Peak 27.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.ROTOR.BOLTS | 轮毂主轴螺栓组
+Fra:1 Mem:27.58M (Peak 27.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BEARING.SEAT | 主轴承座
+Fra:1 Mem:27.62M (Peak 27.62M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BEARING | 主轴承外观
+Fra:1 Mem:27.63M (Peak 27.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BEARING.BOLTS | 主轴承座端盖螺栓组
+Fra:1 Mem:27.64M (Peak 27.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.STAGE.2 | 齿轮箱二级壳体
+Fra:1 Mem:27.64M (Peak 27.64M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.HIGH | 齿轮箱高速级壳体
+Fra:1 Mem:27.66M (Peak 27.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.FLANGE.0 | 齿轮箱壳体法兰
+Fra:1 Mem:27.66M (Peak 27.66M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BOLTS.0 | 齿轮箱端盖螺栓组
+Fra:1 Mem:27.70M (Peak 27.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.FLANGE.1 | 齿轮箱壳体法兰
+Fra:1 Mem:27.70M (Peak 27.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.FLANGE.2 | 齿轮箱壳体法兰
+Fra:1 Mem:27.73M (Peak 27.73M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BOLTS.2 | 齿轮箱端盖螺栓组
+Fra:1 Mem:27.75M (Peak 27.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.TORQUE.-0.8 | 齿轮箱扭力臂
+Fra:1 Mem:27.78M (Peak 27.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BUSH.-0.8 | 扭力臂支承示意
+Fra:1 Mem:27.78M (Peak 27.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BUSH.0.8 | 扭力臂支承示意
+Fra:1 Mem:27.81M (Peak 27.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.HIGH.SHAFT | 高速轴
+Fra:1 Mem:27.81M (Peak 27.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BRAKE.DISC | 高速轴制动盘
+Fra:1 Mem:27.83M (Peak 27.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BRAKE.CALIPER | 制动钳示意
+Fra:1 Mem:27.85M (Peak 27.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.COUPLING.4.33 | 弹性联轴器盘
+Fra:1 Mem:27.87M (Peak 27.87M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.BODY | 双馈异步发电机机体
+Fra:1 Mem:27.87M (Peak 27.87M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.END.0 | 发电机端盖
+Fra:1 Mem:27.91M (Peak 27.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.BOLTS.0 | 发电机端盖螺栓组
+Fra:1 Mem:27.92M (Peak 27.92M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.END.1 | 发电机端盖
+Fra:1 Mem:27.93M (Peak 27.93M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.ROD.3 | 变桨活塞杆3
+Fra:1 Mem:27.94M (Peak 27.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.1 | 发电机外部散热筋示意
+Fra:1 Mem:27.94M (Peak 27.94M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.2 | 发电机外部散热筋示意
+Fra:1 Mem:27.95M (Peak 27.95M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.CYLINDER.3 | 变桨液压缸3
+Fra:1 Mem:27.97M (Peak 27.97M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.3 | 发电机外部散热筋示意
+Fra:1 Mem:27.97M (Peak 27.97M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BOLTS.3 | 叶根螺栓组3
+Fra:1 Mem:27.98M (Peak 27.98M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.5 | 发电机外部散热筋示意
+Fra:1 Mem:27.98M (Peak 27.98M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.6 | 发电机外部散热筋示意
+Fra:1 Mem:27.98M (Peak 27.98M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.7 | 发电机外部散热筋示意
+Fra:1 Mem:27.99M (Peak 27.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.8 | 发电机外部散热筋示意
+Fra:1 Mem:28.00M (Peak 28.00M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.9 | 发电机外部散热筋示意
+Fra:1 Mem:28.04M (Peak 28.04M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.10 | 发电机外部散热筋示意
+Fra:1 Mem:28.06M (Peak 28.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.11 | 发电机外部散热筋示意
+Fra:1 Mem:28.06M (Peak 28.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BEARING.3 | 叶片3变桨轴承
+Fra:1 Mem:28.07M (Peak 28.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.13 | 发电机外部散热筋示意
+Fra:1 Mem:28.09M (Peak 28.09M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FOOT.4.9.0.49 | 发电机支脚
+Fra:1 Mem:28.10M (Peak 28.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.ROD.2 | 变桨活塞杆2
+Fra:1 Mem:28.10M (Peak 28.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FOOT.6.5.-0.49 | 发电机支脚
+Fra:1 Mem:28.11M (Peak 28.11M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FOOT.6.5.0.49 | 发电机支脚
+Fra:1 Mem:28.12M (Peak 28.12M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.TERMINAL | 发电机接线盒
+Fra:1 Mem:28.13M (Peak 28.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.SLIPRING | 滑环舱外罩
+Fra:1 Mem:28.13M (Peak 28.13M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.CYLINDER.2 | 变桨液压缸2
+Fra:1 Mem:28.14M (Peak 28.14M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ELEC.CABLE.0 | 机舱电缆桥接示意
+Fra:1 Mem:28.14M (Peak 28.14M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BOLTS.2 | 叶根螺栓组2
+Fra:1 Mem:28.15M (Peak 28.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ELEC.CABLE.2 | 机舱电缆桥接示意
+Fra:1 Mem:28.15M (Peak 28.15M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LUBE.TANK | 齿轮箱润滑油箱示意
+Fra:1 Mem:28.16M (Peak 28.16M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LUBE.FILTER | 润滑过滤器
+Fra:1 Mem:28.17M (Peak 28.17M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LUBE.PUMP | 润滑泵组
+Fra:1 Mem:28.18M (Peak 28.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | HYDRAULIC.PACK | 液压动力单元示意
+Fra:1 Mem:28.18M (Peak 28.18M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | HYDRAULIC.ACC.0 | 液压蓄能器示意
+Fra:1 Mem:28.19M (Peak 28.19M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LUBE.PIPE | 润滑回路示意
+Fra:1 Mem:28.20M (Peak 28.20M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.PIPE.0 | 顶部冷却管路示意
+Fra:1 Mem:28.20M (Peak 28.20M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.PIPE.1 | 顶部冷却管路示意
+Fra:1 Mem:28.21M (Peak 28.21M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.RADIATOR | 顶部换热面
+Fra:1 Mem:28.21M (Peak 28.21M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.0 | 换热面栅格示意
+Fra:1 Mem:28.22M (Peak 28.22M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.1 | 换热面栅格示意
+Fra:1 Mem:28.23M (Peak 28.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.2 | 换热面栅格示意
+Fra:1 Mem:28.23M (Peak 28.23M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.4 | 换热面栅格示意
+Fra:1 Mem:28.25M (Peak 28.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.5 | 换热面栅格示意
+Fra:1 Mem:28.26M (Peak 28.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BEARING.2 | 叶片2变桨轴承
+Fra:1 Mem:28.27M (Peak 28.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.6 | 换热面栅格示意
+Fra:1 Mem:28.27M (Peak 28.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.7 | 换热面栅格示意
+Fra:1 Mem:28.27M (Peak 28.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.8 | 换热面栅格示意
+Fra:1 Mem:28.27M (Peak 28.27M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.9 | 换热面栅格示意
+Fra:1 Mem:28.29M (Peak 28.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.10 | 换热面栅格示意
+Fra:1 Mem:28.29M (Peak 28.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.ROD.1 | 变桨活塞杆1
+Fra:1 Mem:28.29M (Peak 28.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.11 | 换热面栅格示意
+Fra:1 Mem:28.29M (Peak 28.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.12 | 换热面栅格示意
+Fra:1 Mem:28.29M (Peak 28.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.13 | 换热面栅格示意
+Fra:1 Mem:28.29M (Peak 28.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.14 | 换热面栅格示意
+Fra:1 Mem:28.29M (Peak 28.29M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.15 | 换热面栅格示意
+Fra:1 Mem:28.30M (Peak 28.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.16 | 换热面栅格示意
+Fra:1 Mem:28.30M (Peak 28.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.18 | 换热面栅格示意
+Fra:1 Mem:28.30M (Peak 28.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BOLTS.1 | 叶根螺栓组1
+Fra:1 Mem:28.30M (Peak 28.30M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.19 | 换热面栅格示意
+Fra:1 Mem:28.34M (Peak 28.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.20 | 换热面栅格示意
+Fra:1 Mem:28.33M (Peak 28.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.SUPPORT.5.9 | 冷却器支架
+Fra:1 Mem:28.34M (Peak 28.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.SUPPORT.8.3 | 冷却器支架
+Fra:1 Mem:28.34M (Peak 28.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SENSOR.MAST | 气象传感器支杆
+Fra:1 Mem:28.34M (Peak 28.34M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SENSOR.WIND | 风速风向仪包络
+Fra:1 Mem:28.36M (Peak 28.36M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SAFETY.BEACON | 航空警示灯
+Fra:1 Mem:28.37M (Peak 28.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ROTOR.HUB | 轮毂主体重建
+Fra:1 Mem:28.43M (Peak 28.44M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.WALK | 机舱检修通道
+Fra:1 Mem:28.46M (Peak 28.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.POST.-0.8 | 检修护栏立柱
+Fra:1 Mem:28.48M (Peak 28.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.POST.2.3 | 检修护栏立柱
+Fra:1 Mem:28.47M (Peak 28.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.CHAIN | 吊钩链条示意
+Fra:1 Mem:28.47M (Peak 28.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.POST.5.4 | 检修护栏立柱
+Fra:1 Mem:28.48M (Peak 28.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.HOIST | 检修葫芦示意
+Fra:1 Mem:28.48M (Peak 28.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.POST.7.8 | 检修护栏立柱
+Fra:1 Mem:28.49M (Peak 28.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.CRANE.BEAM | 检修吊装梁示意
+Fra:1 Mem:28.50M (Peak 28.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:23.26M (Peak 28.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:23.26M (Peak 28.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:23.26M (Peak 28.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:23.26M (Peak 28.50M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:23.34M (Peak 28.50M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:23.38M (Peak 28.50M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:23.38M (Peak 28.50M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:23.38M (Peak 28.50M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:23.38M (Peak 28.50M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:23.75M (Peak 28.50M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:23.92M (Peak 28.50M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:23.90M (Peak 28.50M) | Time:00:00.03 | Mem:0.19M, Peak:0.19M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:23.91M (Peak 28.50M) | Time:00:00.03 | Mem:0.19M, Peak:0.19M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:23.91M (Peak 28.50M) | Time:00:00.03 | Mem:0.94M, Peak:0.94M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:23.91M (Peak 28.50M) | Time:00:00.03 | Mem:1.82M, Peak:2.57M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:23.91M (Peak 28.50M) | Time:00:00.03 | Mem:1.82M, Peak:2.57M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:24.77M (Peak 28.50M) | Time:00:00.03 | Mem:1.82M, Peak:2.57M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:24.77M (Peak 28.50M) | Time:00:00.03 | Mem:2.68M, Peak:2.68M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:24.77M (Peak 28.50M) | Time:00:00.03 | Mem:2.69M, Peak:2.69M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:24.77M (Peak 28.50M) | Time:00:00.03 | Mem:2.69M, Peak:2.69M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:24.77M (Peak 28.50M) | Time:00:00.03 | Mem:2.69M, Peak:2.69M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:24.77M (Peak 28.50M) | Time:00:00.03 | Mem:2.69M, Peak:2.69M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:24.77M (Peak 28.50M) | Time:00:00.03 | Mem:2.77M, Peak:2.77M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:24.77M (Peak 28.50M) | Time:00:00.03 | Mem:2.77M, Peak:2.77M | Scene, ViewLayer | Updating Lights | Computing distribution
+Fra:1 Mem:24.77M (Peak 28.50M) | Time:00:00.03 | Mem:2.77M, Peak:2.77M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:24.77M (Peak 28.50M) | Time:00:00.03 | Mem:2.77M, Peak:2.77M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:25.77M (Peak 28.50M) | Time:00:00.03 | Mem:3.77M, Peak:3.77M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:25.77M (Peak 28.50M) | Time:00:00.03 | Mem:3.69M, Peak:3.77M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:25.77M (Peak 28.50M) | Time:00:00.03 | Mem:3.77M, Peak:3.77M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:25.77M (Peak 28.50M) | Time:00:00.03 | Mem:3.77M, Peak:3.77M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:25.78M (Peak 28.50M) | Time:00:00.03 | Mem:3.77M, Peak:3.77M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:86.23M (Peak 86.23M) | Time:00:00.74 | Remaining:00:33.38 | Mem:64.20M, Peak:64.20M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:113.08M (Peak 166.79M) | Time:00:26.88 | Mem:64.20M, Peak:64.20M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:113.08M (Peak 166.79M) | Time:00:26.88 | Mem:64.20M, Peak:64.20M | Scene, ViewLayer | Finished
+Saved: '/home/zhangwz/解析视频/风机BIM交付/preview/04_系统分解示意.png'
+Time: 00:27.36 (Saving: 00:00.46)
+
+Fra:1 Mem:28.48M (Peak 28.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SITE.FOUNDATION | 基础示意（场址未定）
+Fra:1 Mem:28.48M (Peak 28.48M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SITE.PEDESTAL | 基础承台示意
+Fra:1 Mem:28.49M (Peak 28.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | TOWER.SECTION.1 | 塔筒第1段
+Fra:1 Mem:28.50M (Peak 28.50M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | TOWER.SECTION.2 | 塔筒第2段
+Fra:1 Mem:28.54M (Peak 28.54M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | TOWER.FLANGE.2 | 塔筒法兰2
+Fra:1 Mem:28.55M (Peak 28.55M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | TOWER.BOLTS.2 | 塔筒连接螺栓组2
+Fra:1 Mem:28.63M (Peak 28.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | TOWER.SECTION.3 | 塔筒第3段
+Fra:1 Mem:28.67M (Peak 28.67M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | TOWER.DOOR | 塔门位置示意
+Fra:1 Mem:28.70M (Peak 28.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | TOWER.PLATFORM.1 | 检修平台1
+Fra:1 Mem:28.70M (Peak 28.70M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | TOWER.PLATFORM.3 | 检修平台3
+Fra:1 Mem:28.72M (Peak 28.72M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | TOWER.LADDER.RAIL.-0.23 | 爬梯侧轨
+Fra:1 Mem:28.74M (Peak 28.74M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | TOWER.LADDER.RAIL.0.23 | 爬梯侧轨
+Fra:1 Mem:28.76M (Peak 28.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | TOWER.LADDER.RUNGS | 爬梯踏棍组
+Fra:1 Mem:28.78M (Peak 28.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | TOWER.CABLE | 塔内电缆束示意
+Fra:1 Mem:28.88M (Peak 28.88M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.BOLTS | 偏航连接螺栓组
+Fra:1 Mem:28.91M (Peak 28.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.1 | 偏航驱动电机1
+Fra:1 Mem:28.99M (Peak 28.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.1 | 偏航减速器1
+Fra:1 Mem:29.02M (Peak 29.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.2 | 偏航驱动电机2
+Fra:1 Mem:29.03M (Peak 29.03M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.3 | 偏航驱动电机3
+Fra:1 Mem:29.06M (Peak 29.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.3 | 偏航减速器3
+Fra:1 Mem:29.03M (Peak 29.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.4 | 偏航减速器4
+Fra:1 Mem:29.04M (Peak 29.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.5 | 偏航驱动电机5
+Fra:1 Mem:29.05M (Peak 29.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.5 | 偏航减速器5
+Fra:1 Mem:29.05M (Peak 29.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.MOTOR.6 | 偏航驱动电机6
+Fra:1 Mem:29.05M (Peak 29.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | YAW.REDUCER.6 | 偏航减速器6
+Fra:1 Mem:29.06M (Peak 29.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FRAME.BASE | 机舱承载底架
+Fra:1 Mem:29.06M (Peak 29.06M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FRAME.RAIL.-1.05 | 纵向支承梁
+Fra:1 Mem:29.07M (Peak 29.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | FRAME.RAIL.1.05 | 纵向支承梁
+Fra:1 Mem:29.07M (Peak 29.07M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COVER.FLOOR | 机舱底部壳体
+Fra:1 Mem:29.08M (Peak 29.08M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COVER.SIDE.PORT | 机舱侧罩
+Fra:1 Mem:29.08M (Peak 29.08M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COVER.ROOF | 可隐藏机舱顶罩
+Fra:1 Mem:29.09M (Peak 29.09M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COVER.REAR | 机舱后罩
+Fra:1 Mem:29.10M (Peak 29.10M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COVER.FRONT | 机舱前部下罩
+Fra:1 Mem:29.11M (Peak 29.11M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ROTOR.SPINNER | 轮毂导流罩
+Fra:1 Mem:29.11M (Peak 29.11M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.SHAFT | 低速主轴
+Fra:1 Mem:29.17M (Peak 29.17M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.ROTOR.FLANGE | 轮毂主轴连接法兰
+Fra:1 Mem:29.20M (Peak 29.20M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.ROTOR.BOLTS | 轮毂主轴螺栓组
+Fra:1 Mem:29.21M (Peak 29.21M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BEARING.SEAT | 主轴承座
+Fra:1 Mem:29.24M (Peak 29.24M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BEARING | 主轴承外观
+Fra:1 Mem:29.25M (Peak 29.25M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BEARING.BOLTS | 主轴承座端盖螺栓组
+Fra:1 Mem:29.26M (Peak 29.26M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.STAGE.1 | 齿轮箱一级壳体
+Fra:1 Mem:29.30M (Peak 29.28M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.STAGE.2 | 齿轮箱二级壳体
+Fra:1 Mem:29.31M (Peak 29.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.FLANGE.0 | 齿轮箱壳体法兰
+Fra:1 Mem:29.31M (Peak 29.31M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BOLTS.0 | 齿轮箱端盖螺栓组
+Fra:1 Mem:29.33M (Peak 29.33M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.FLANGE.1 | 齿轮箱壳体法兰
+Fra:1 Mem:29.37M (Peak 29.37M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BOLTS.1 | 齿轮箱端盖螺栓组
+Fra:1 Mem:29.40M (Peak 29.40M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BOLTS.2 | 齿轮箱端盖螺栓组
+Fra:1 Mem:29.41M (Peak 29.41M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BUSH.-0.8 | 扭力臂支承示意
+Fra:1 Mem:29.43M (Peak 29.43M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.TORQUE.0.8 | 齿轮箱扭力臂
+Fra:1 Mem:29.44M (Peak 29.44M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.HIGH.SHAFT | 高速轴
+Fra:1 Mem:29.45M (Peak 29.45M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BRAKE.DISC | 高速轴制动盘
+Fra:1 Mem:29.46M (Peak 29.46M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BRAKE.CALIPER | 制动钳示意
+Fra:1 Mem:29.49M (Peak 29.49M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.COUPLING.4.33 | 弹性联轴器盘
+Fra:1 Mem:29.52M (Peak 29.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.BODY | 双馈异步发电机机体
+Fra:1 Mem:29.52M (Peak 29.52M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.BOLTS.0 | 发电机端盖螺栓组
+Fra:1 Mem:29.57M (Peak 29.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.END.1 | 发电机端盖
+Fra:1 Mem:29.57M (Peak 29.57M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ROTOR.BLADE.3 | 叶片3 / 44m
+Fra:1 Mem:29.58M (Peak 29.58M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.2 | 发电机外部散热筋示意
+Fra:1 Mem:29.63M (Peak 29.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ROTOR.BLADE.2 | 叶片2 / 44m
+Fra:1 Mem:29.63M (Peak 29.63M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.4 | 发电机外部散热筋示意
+Fra:1 Mem:29.68M (Peak 29.68M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ROTOR.BLADE.1 | 叶片1 / 44m
+Fra:1 Mem:29.75M (Peak 29.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.7 | 发电机外部散热筋示意
+Fra:1 Mem:29.75M (Peak 29.75M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.8 | 发电机外部散热筋示意
+Fra:1 Mem:29.76M (Peak 29.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.9 | 发电机外部散热筋示意
+Fra:1 Mem:29.76M (Peak 29.76M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.10 | 发电机外部散热筋示意
+Fra:1 Mem:29.77M (Peak 29.77M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.11 | 发电机外部散热筋示意
+Fra:1 Mem:29.78M (Peak 29.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.12 | 发电机外部散热筋示意
+Fra:1 Mem:29.78M (Peak 29.78M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FIN.13 | 发电机外部散热筋示意
+Fra:1 Mem:29.79M (Peak 29.79M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FOOT.4.9.-0.49 | 发电机支脚
+Fra:1 Mem:29.80M (Peak 29.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FOOT.4.9.0.49 | 发电机支脚
+Fra:1 Mem:29.80M (Peak 29.80M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.FOOT.6.5.-0.49 | 发电机支脚
+Fra:1 Mem:29.81M (Peak 29.81M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.TERMINAL | 发电机接线盒
+Fra:1 Mem:29.82M (Peak 29.82M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GENERATOR.SLIPRING | 滑环舱外罩
+Fra:1 Mem:29.83M (Peak 29.83M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ELEC.CABINET.1 | 电控柜包络示意
+Fra:1 Mem:29.84M (Peak 29.84M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ELEC.CABINET.2 | 变流设备包络待核实
+Fra:1 Mem:29.85M (Peak 29.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ELEC.CABLE.1 | 机舱电缆桥接示意
+Fra:1 Mem:29.85M (Peak 29.85M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ELEC.CABLE.2 | 机舱电缆桥接示意
+Fra:1 Mem:29.86M (Peak 29.86M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LUBE.TANK | 齿轮箱润滑油箱示意
+Fra:1 Mem:29.87M (Peak 29.87M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LUBE.PUMP | 润滑泵组
+Fra:1 Mem:29.88M (Peak 29.88M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | HYDRAULIC.PACK | 液压动力单元示意
+Fra:1 Mem:29.88M (Peak 29.88M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | HYDRAULIC.ACC.0 | 液压蓄能器示意
+Fra:1 Mem:29.89M (Peak 29.89M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | HYDRAULIC.ACC.1 | 液压蓄能器示意
+Fra:1 Mem:29.90M (Peak 29.90M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | LUBE.PIPE | 润滑回路示意
+Fra:1 Mem:29.91M (Peak 29.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.PIPE.0 | 顶部冷却管路示意
+Fra:1 Mem:29.91M (Peak 29.91M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BOLTS.3 | 叶根螺栓组3
+Fra:1 Mem:29.93M (Peak 29.93M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FRAME | CoolerTop顶部冷却器框架
+Fra:1 Mem:29.95M (Peak 29.95M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BEARING.3 | 叶片3变桨轴承
+Fra:1 Mem:29.98M (Peak 29.98M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.RADIATOR | 顶部换热面
+Fra:1 Mem:29.98M (Peak 29.98M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.ROD.2 | 变桨活塞杆2
+Fra:1 Mem:29.98M (Peak 29.98M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.0 | 换热面栅格示意
+Fra:1 Mem:29.98M (Peak 29.98M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.CYLINDER.2 | 变桨液压缸2
+Fra:1 Mem:29.98M (Peak 29.98M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.2 | 换热面栅格示意
+Fra:1 Mem:29.99M (Peak 29.99M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BOLTS.2 | 叶根螺栓组2
+Fra:1 Mem:30.01M (Peak 30.01M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.3 | 换热面栅格示意
+Fra:1 Mem:30.02M (Peak 30.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.4 | 换热面栅格示意
+Fra:1 Mem:30.02M (Peak 30.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.5 | 换热面栅格示意
+Fra:1 Mem:30.02M (Peak 30.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.6 | 换热面栅格示意
+Fra:1 Mem:30.02M (Peak 30.02M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.8 | 换热面栅格示意
+Fra:1 Mem:30.04M (Peak 30.04M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.9 | 换热面栅格示意
+Fra:1 Mem:30.04M (Peak 30.04M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.10 | 换热面栅格示意
+Fra:1 Mem:30.05M (Peak 30.05M) | Time:00:00.02 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.11 | 换热面栅格示意
+Fra:1 Mem:30.05M (Peak 30.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.CYLINDER.1 | 变桨液压缸1
+Fra:1 Mem:30.05M (Peak 30.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.12 | 换热面栅格示意
+Fra:1 Mem:30.05M (Peak 30.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.13 | 换热面栅格示意
+Fra:1 Mem:30.05M (Peak 30.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.14 | 换热面栅格示意
+Fra:1 Mem:30.05M (Peak 30.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.15 | 换热面栅格示意
+Fra:1 Mem:30.05M (Peak 30.05M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.16 | 换热面栅格示意
+Fra:1 Mem:30.06M (Peak 30.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BOLTS.1 | 叶根螺栓组1
+Fra:1 Mem:30.06M (Peak 30.06M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.17 | 换热面栅格示意
+Fra:1 Mem:30.09M (Peak 30.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | PITCH.BEARING.1 | 叶片1变桨轴承
+Fra:1 Mem:30.09M (Peak 30.09M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.19 | 换热面栅格示意
+Fra:1 Mem:30.11M (Peak 30.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | ROTOR.HUB | 轮毂主体重建
+Fra:1 Mem:30.11M (Peak 30.11M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.FIN.21 | 换热面栅格示意
+Fra:1 Mem:30.20M (Peak 30.20M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.SUPPORT.5.9 | 冷却器支架
+Fra:1 Mem:30.22M (Peak 30.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | COOL.SUPPORT.8.3 | 冷却器支架
+Fra:1 Mem:30.20M (Peak 30.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SENSOR.MAST | 气象传感器支杆
+Fra:1 Mem:30.21M (Peak 30.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SENSOR.WIND | 风速风向仪包络
+Fra:1 Mem:30.21M (Peak 30.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SAFETY.BEACON | 航空警示灯
+Fra:1 Mem:30.22M (Peak 30.22M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SAFETY.FIRE | 消防设备位置示意
+Fra:1 Mem:30.23M (Peak 30.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.WALK | 机舱检修通道
+Fra:1 Mem:30.23M (Peak 30.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.HOIST | 检修葫芦示意
+Fra:1 Mem:30.23M (Peak 30.23M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.POST.2.3 | 检修护栏立柱
+Fra:1 Mem:30.24M (Peak 30.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.POST.5.4 | 检修护栏立柱
+Fra:1 Mem:30.24M (Peak 30.24M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.RAIL | 检修护栏
+Fra:1 Mem:30.25M (Peak 30.25M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | SERVICE.CRANE.BEAM | 检修吊装梁示意
+Fra:1 Mem:30.26M (Peak 30.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:23.95M (Peak 30.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:23.95M (Peak 30.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:23.95M (Peak 30.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:23.95M (Peak 30.26M) | Time:00:00.03 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:24.04M (Peak 30.26M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:24.04M (Peak 30.26M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:24.04M (Peak 30.26M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:24.04M (Peak 30.26M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:24.04M (Peak 30.26M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:24.04M (Peak 30.26M) | Time:00:00.03 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:24.08M (Peak 30.26M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:24.08M (Peak 30.26M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:24.08M (Peak 30.26M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:24.08M (Peak 30.26M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:24.71M (Peak 30.26M) | Time:00:00.03 | Mem:0.04M, Peak:0.04M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:25.00M (Peak 30.26M) | Time:00:00.03 | Mem:0.05M, Peak:0.05M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:24.97M (Peak 30.26M) | Time:00:00.03 | Mem:0.31M, Peak:0.31M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:24.97M (Peak 30.26M) | Time:00:00.04 | Mem:0.31M, Peak:0.31M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:24.97M (Peak 30.26M) | Time:00:00.04 | Mem:1.56M, Peak:1.56M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:24.97M (Peak 30.26M) | Time:00:00.04 | Mem:2.93M, Peak:4.18M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:24.97M (Peak 30.26M) | Time:00:00.04 | Mem:2.93M, Peak:4.18M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:26.44M (Peak 30.26M) | Time:00:00.04 | Mem:2.93M, Peak:4.18M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:26.44M (Peak 30.26M) | Time:00:00.04 | Mem:4.39M, Peak:4.39M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:26.44M (Peak 30.26M) | Time:00:00.04 | Mem:4.39M, Peak:4.39M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:26.44M (Peak 30.26M) | Time:00:00.04 | Mem:4.39M, Peak:4.39M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:26.44M (Peak 30.26M) | Time:00:00.04 | Mem:4.39M, Peak:4.39M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:26.44M (Peak 30.26M) | Time:00:00.04 | Mem:4.39M, Peak:4.39M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:26.44M (Peak 30.26M) | Time:00:00.04 | Mem:4.47M, Peak:4.47M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:26.44M (Peak 30.26M) | Time:00:00.04 | Mem:4.47M, Peak:4.47M | Scene, ViewLayer | Updating Lights | Computing distribution
+Fra:1 Mem:26.44M (Peak 30.26M) | Time:00:00.04 | Mem:4.47M, Peak:4.47M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:26.44M (Peak 30.26M) | Time:00:00.04 | Mem:4.47M, Peak:4.47M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:27.44M (Peak 30.26M) | Time:00:00.04 | Mem:5.47M, Peak:5.47M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:27.44M (Peak 30.26M) | Time:00:00.04 | Mem:5.39M, Peak:5.47M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:27.44M (Peak 30.26M) | Time:00:00.04 | Mem:5.48M, Peak:5.48M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:27.44M (Peak 30.26M) | Time:00:00.04 | Mem:5.48M, Peak:5.48M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:27.45M (Peak 30.26M) | Time:00:00.04 | Mem:5.48M, Peak:5.48M | Scene, ViewLayer | Sample 0/48
+Fra:1 Mem:87.90M (Peak 87.90M) | Time:00:00.42 | Remaining:00:17.58 | Mem:65.90M, Peak:65.90M | Scene, ViewLayer | Sample 1/48
+Fra:1 Mem:114.75M (Peak 168.46M) | Time:00:08.97 | Mem:65.90M, Peak:65.90M | Scene, ViewLayer | Sample 48/48
+Fra:1 Mem:114.75M (Peak 168.46M) | Time:00:08.97 | Mem:65.90M, Peak:65.90M | Scene, ViewLayer | Finished
+Saved: '/home/zhangwz/解析视频/风机BIM交付/preview/01_整机.png'
+Time: 00:09.42 (Saving: 00:00.43)
+
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.061
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.062
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.063
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.064
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.065
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: SENSOR.MAST
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.032
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.033
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cone.034
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.066
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: SERVICE.POST.-0.8
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: SERVICE.POST.2.3
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: SERVICE.POST.5.4
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: SERVICE.POST.7.8
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: SERVICE.RAIL
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.067
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Cube.068
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: SERVICE.CHAIN
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: Sphere
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.BEARING.1
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.BOLTS.1
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.CYLINDER.1
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.ROD.1
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.BEARING.2
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.BOLTS.2
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.CYLINDER.2
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.ROD.2
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.BEARING.3
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.BOLTS.3
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.CYLINDER.3
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Extracting primitive: PITCH.ROD.3
+03:11:06 | INFO: Primitives created: 1
+03:11:06 | INFO: Finished glTF 2.0 export in 0.6511270999908447 s
+
+Info: Saved "V90_reconstruction.blend"
+MODEL_COMPLETE 163 components 41068 triangles
+
+Blender quit

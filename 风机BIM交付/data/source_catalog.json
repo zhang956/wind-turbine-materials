@@ -1,0 +1,94 @@
+[
+  {
+    "id": "S01",
+    "title": "Vestas 2 MW 平台中文手册",
+    "url": "https://www.vestas.cn/content/dam/vestas-com/cn/product-/2MWfinal.pdf",
+    "download_alternate_url": "https://www.vestas.com/content/dam/vestas-com/cn/product-/2MWfinal.pdf",
+    "access_date": "2026-10-16",
+    "local_path": "references/Vestas_2MW_官方中文手册.pdf",
+    "sha256": "a590c3ea29a26b36f25b69d2c475e17c59e6615ad5463b7ea7b5be19f7ec4aa7",
+    "pdf_creation_date": "2017-10-09",
+    "pdf_modification_date": "2018-06-22",
+    "pages": 16,
+    "uses": {
+      "4": "底座、轴承座及CoolerTop原理说明",
+      "8-9": "平台级机舱内部透视图，不是V90特定批次装配图",
+      "10": "V90-2.0 MW参数表"
+    },
+    "limitations": [
+      "不是原厂CAD/制造图；内部几何无法从单张透视图精确反求",
+      "历史版本；不能用于宣称最新生产配置",
+      "公开可访问不等于获得模型或图像的任意再发布授权；原资料版权归原作者"
+    ]
+  },
+  {
+    "id": "S02",
+    "title": "V90-2.0MW GridStreamer LCA (different electrical variant)",
+    "url": "https://www.vestas.com/content/dam/vestas-com/global/en/sustainability/reports-and-ratings/lcas/LCA_V902MW_version1.pdf.coredownload.inline.pdf",
+    "access_date": "2026-10-16",
+    "local_path": "references/Vestas_V90_2MW_LCA_官方.pdf",
+    "sha256": "3317637368157f3ab445b540cc58357c9a8f8db95ffe021f133dc200a24f0623",
+    "uses": {
+      "81": "塔内平台、爬梯、电缆固定设施和塔底控制单元的类型证据"
+    },
+    "limitations": [
+      "没有提供塔内设施尺寸、数量、标高或详图；不能证明本模型的估算几何",
+      "生命周期报告中典型结构描述，不是特定批次总装图",
+      "GridStreamer版本，不可作为双馈电气配置的证据；塔内设施仅跨版本参考。"
+    ]
+  },
+  {
+    "id": "S03",
+    "title": "Vestas V90-1.8/2.0 MW historical manufacturer brochure (third-party mirror)",
+    "url": "https://media.mwps.world/static/2020/10/vestas-v90-20-brochure.pdf",
+    "uses": {
+      "7": "六驱动偏航、润滑、机舱内置变压器",
+      "8": "VCS变流系统",
+      "9": "开关柜为选配"
+    },
+    "limitations": [
+      "厂家原文的第三方镜像，非当前官网下载",
+      "仅用功能与类型；不混用其历史尺寸替换S01",
+      "具体批次、几何与接线未确认"
+    ]
+  },
+  {
+    "id": "S04",
+    "title": "MathWorks generic DFIG system",
+    "url": "https://www.mathworks.com/help/simscape-electrical/ug/doubly-fed-inductor-generator-wind-power-system.html",
+    "limitations": [
+      "通用原理，仅支持双馈拓扑，不证明Vestas柜内元件型号、数量及位置"
+    ]
+  },
+  {
+    "id": "S05",
+    "title": "Vestas V90–1.8/2.0 MW 50 Hz VCS General Specification, 0004-6207 V05",
+    "url": "https://docs.planning.org.uk/20241104/134/SLV9ISKPFRF00/ljaru7jbzngstbza.pdf",
+    "access_date": "2026-10-16",
+    "uses": {
+      "17 section 3.6": "两只带加热FT702LT，声学共振测风",
+      "18 section 3.7": "控制器风测量及自动偏航功能",
+      "5 table 2-1": "风轮14.9rpm静态值、9.6–17.0rpm动态范围；R10采用主轴倾角6°",
+      "7-8 section 2.9": "一级行星+两级斜齿，总增速比112.8",
+      "8 section 2.11": "高速轴、制动盘与柔性联轴器连接"
+    },
+    "limitations": [
+      "2010历史厂家文件，规划档案公开副本，非当前官网下载",
+      "不证明S01批次相同；仅参考类型、数量及功能，不移植尺寸",
+      "未获取安装位置、支架尺寸或接线图",
+      "R10仅采用风轮轴线相对水平6度；机舱支承/外罩同步变换为C级布局假设，不证明实际底座、外罩倾角或安装界面。"
+    ]
+  },
+  {
+    "id": "S06",
+    "title": "FT Technologies Acu-Res acoustic resonance principle",
+    "url": "https://fttechnologies.com/technology",
+    "access_date": "2026-10-16",
+    "uses": {
+      "technology": "小测量腔内声学共振测风原理"
+    },
+    "limitations": [
+      "通用原理，不是FT702LT机械图；模型几何保持C级"
+    ]
+  }
+]

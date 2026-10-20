@@ -1,0 +1,15 @@
+﻿asset_id,suggested_key,name,unit,actual_scada_tag,status
+DRIVE.BEARING,main_bearing_temperature,主轴承温度,degC,,UNMAPPED_NO_LIVE_DATA
+GEARBOX.STAGE.1,gearbox_oil_temperature,齿轮箱油温,degC,,UNMAPPED_NO_LIVE_DATA
+GEARBOX.STAGE.1,gearbox_vibration_rms,齿轮箱振动有效值,mm/s,,UNMAPPED_NO_LIVE_DATA
+GENERATOR.BODY,generator_speed,发电机转速,rpm,,UNMAPPED_NO_LIVE_DATA
+GENERATOR.BODY,active_power,有功功率,kW,,UNMAPPED_NO_LIVE_DATA
+GENERATOR.BODY,stator_temperature,定子温度,degC,,UNMAPPED_NO_LIVE_DATA
+YAW.BEARING,yaw_position,偏航角度,deg,,UNMAPPED_NO_LIVE_DATA
+PITCH.BEARING.1,blade_1_pitch,叶片1桨距角,deg,,UNMAPPED_NO_LIVE_DATA
+PITCH.BEARING.2,blade_2_pitch,叶片2桨距角,deg,,UNMAPPED_NO_LIVE_DATA
+PITCH.BEARING.3,blade_3_pitch,叶片3桨距角,deg,,UNMAPPED_NO_LIVE_DATA
+SENSOR.WIND,wind_speed,风速,m/s,,UNMAPPED_NO_LIVE_DATA
+SENSOR.WIND,wind_direction,传感器1风向,deg,,UNMAPPED_NO_LIVE_DATA
+SENSOR.WIND.2,wind_speed_2,传感器2风速,m/s,,UNMAPPED_NO_LIVE_DATA
+SENSOR.WIND.2,wind_direction_2,传感器2风向,deg,,UNMAPPED_NO_LIVE_DATA

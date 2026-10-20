@@ -1,0 +1,73 @@
+Failed to create secure directory (/run/user/0/pulse): Read-only file system
+pa_write() failed while trying to wake up the mainloop: Operation not permitted
+Blender 4.0.2
+Read blend: "/home/zhangwz/解析视频/风机BIM交付/models/V90_reconstruction.blend"
+Fra:1 Mem:33.88M (Peak 33.88M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.SHAFT | 低速主轴
+Fra:1 Mem:33.88M (Peak 33.88M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.ROTOR.BOLTS | 轮毂主轴螺栓组
+Fra:1 Mem:33.89M (Peak 33.89M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BEARING.SEAT | 主轴承座
+Fra:1 Mem:33.93M (Peak 33.93M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BEARING | 主轴承外观
+Fra:1 Mem:33.93M (Peak 33.93M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.BUSH.-0.8 | 扭力臂支承示意
+Fra:1 Mem:33.98M (Peak 33.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.TORQUE.0.8 | 齿轮箱扭力臂
+Fra:1 Mem:33.98M (Peak 33.98M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.HIGH.SHAFT | 高速轴
+Fra:1 Mem:34.00M (Peak 34.00M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BRAKE.DISC | 高速轴制动盘
+Fra:1 Mem:34.02M (Peak 34.02M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.BRAKE.CALIPER | 制动钳示意
+Fra:1 Mem:34.02M (Peak 34.02M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.COUPLING.4.15 | 弹性联轴器盘
+Fra:1 Mem:34.05M (Peak 34.05M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | DRIVE.COUPLING.4.33 | 弹性联轴器盘
+Fra:1 Mem:34.07M (Peak 34.07M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.INTERNAL.RING | 行星级内齿圈包络（无齿形）
+Fra:1 Mem:34.10M (Peak 34.10M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.INTERNAL.SUN | 行星级太阳轮包络
+Fra:1 Mem:34.14M (Peak 34.14M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.INTERNAL.PLANET.2 | 行星轮包络2（数量示意）
+Fra:1 Mem:34.15M (Peak 34.15M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.INTERNAL.PLANET.3 | 行星轮包络3（数量示意）
+Fra:1 Mem:34.17M (Peak 34.17M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.INTERNAL.LINK.3 | 输出连接示意
+Fra:1 Mem:34.17M (Peak 34.17M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.INTERNAL.HELICAL.2.1 | 斜齿级1齿轮包络1（无精
+Fra:1 Mem:34.20M (Peak 34.19M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.INTERNAL.HELIX.2.1 | 斜向纹理标记（非轮齿）
+Fra:1 Mem:34.19M (Peak 34.19M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.INTERNAL.HELICAL.2.2 | 斜齿级1齿轮包络2（无精
+Fra:1 Mem:34.20M (Peak 34.20M) | Time:00:00.00 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.INTERNAL.HELIX.2.2 | 斜向纹理标记（非轮齿）
+Fra:1 Mem:34.21M (Peak 34.21M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.INTERNAL.HELICAL.3.1 | 斜齿级2齿轮包络1（无精
+Fra:1 Mem:34.23M (Peak 34.23M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.INTERNAL.HELIX.3.1 | 斜向纹理标记（非轮齿）
+Fra:1 Mem:34.26M (Peak 34.26M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.INTERNAL.HELICAL.3.2 | 斜齿级2齿轮包络2（无精
+Fra:1 Mem:34.29M (Peak 34.29M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | GEARBOX.INTERNAL.LINK.1 | 太阳轮至平行轴级连接示意
+Fra:1 Mem:34.33M (Peak 34.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:32.85M (Peak 34.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:32.85M (Peak 34.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:32.85M (Peak 34.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:32.85M (Peak 34.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:32.93M (Peak 34.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:32.93M (Peak 34.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:32.93M (Peak 34.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:32.93M (Peak 34.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:32.93M (Peak 34.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:32.93M (Peak 34.33M) | Time:00:00.01 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:32.94M (Peak 34.33M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:32.94M (Peak 34.33M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:32.94M (Peak 34.33M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:32.94M (Peak 34.33M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:33.07M (Peak 34.33M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:33.12M (Peak 34.33M) | Time:00:00.01 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:33.12M (Peak 34.33M) | Time:00:00.01 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:33.12M (Peak 34.33M) | Time:00:00.01 | Mem:0.06M, Peak:0.06M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:33.12M (Peak 34.33M) | Time:00:00.01 | Mem:0.31M, Peak:0.31M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:33.12M (Peak 34.33M) | Time:00:00.02 | Mem:0.61M, Peak:0.86M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:33.12M (Peak 34.33M) | Time:00:00.02 | Mem:0.61M, Peak:0.86M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:33.40M (Peak 34.33M) | Time:00:00.02 | Mem:0.61M, Peak:0.86M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:33.40M (Peak 34.33M) | Time:00:00.02 | Mem:0.90M, Peak:0.90M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:33.40M (Peak 34.33M) | Time:00:00.02 | Mem:0.90M, Peak:0.90M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:33.40M (Peak 34.33M) | Time:00:00.02 | Mem:0.90M, Peak:0.90M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:33.40M (Peak 34.33M) | Time:00:00.02 | Mem:0.90M, Peak:0.90M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:33.40M (Peak 34.33M) | Time:00:00.02 | Mem:0.90M, Peak:0.90M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:33.40M (Peak 34.33M) | Time:00:00.02 | Mem:0.98M, Peak:0.98M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:33.40M (Peak 34.33M) | Time:00:00.02 | Mem:0.98M, Peak:0.98M | Scene, ViewLayer | Updating Lights | Computing distribution
+Fra:1 Mem:33.40M (Peak 34.33M) | Time:00:00.02 | Mem:0.98M, Peak:0.98M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:33.40M (Peak 34.33M) | Time:00:00.02 | Mem:0.98M, Peak:0.98M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:34.40M (Peak 34.40M) | Time:00:00.02 | Mem:1.98M, Peak:1.98M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:34.41M (Peak 34.41M) | Time:00:00.02 | Mem:1.90M, Peak:1.98M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:34.41M (Peak 34.41M) | Time:00:00.02 | Mem:1.98M, Peak:1.98M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:34.41M (Peak 34.41M) | Time:00:00.02 | Mem:1.98M, Peak:1.98M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:34.41M (Peak 34.41M) | Time:00:00.02 | Mem:1.98M, Peak:1.98M | Scene, ViewLayer | Sample 0/24
+Fra:1 Mem:72.89M (Peak 72.89M) | Time:00:00.63 | Remaining:00:14.12 | Mem:40.44M, Peak:40.44M | Scene, ViewLayer | Sample 1/24
+Fra:1 Mem:89.98M (Peak 124.16M) | Time:00:12.22 | Mem:40.44M, Peak:40.44M | Scene, ViewLayer | Sample 24/24
+Fra:1 Mem:89.98M (Peak 124.16M) | Time:00:12.22 | Mem:40.44M, Peak:40.44M | Scene, ViewLayer | Finished
+Saved: '/home/zhangwz/解析视频/风机BIM交付/preview/06_传动内部功能示意_R06.png'
+Time: 00:12.88 (Saving: 00:00.64)
+
+
+Blender quit

@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import {advanceDrivetrain,aeroTorque,PARAMETERS} from '../viewer/drivetrain-dynamics.mjs';
+assert.equal(aeroTorque(0,1,0,0),0);
+assert.equal(aeroTorque(12,1,90,0),0);
+assert.ok(aeroTorque(12,1,35,0)<aeroTorque(12,1,0,0));
+let s=advanceDrivetrain({rpm:8,speed:10,pitch:0,yawError:0,targetRpm:10,stopping:false,dt:.05});
+assert.ok(s.generatorTorque>=0);assert.equal(s.brakeTorque,0);
+assert.ok(Math.abs((s.rpm-8)*Math.PI/30/.05*PARAMETERS.inertia-s.netTorque)<1e-6);
+assert.ok(Math.abs(s.electricPower-s.generatorTorque*s.rpm*Math.PI/30*PARAMETERS.efficiency)<1e-6);
+s=advanceDrivetrain({rpm:0,speed:0,pitch:0,yawError:0,targetRpm:12,stopping:false,dt:.05});assert.equal(s.rpm,0);assert.equal(s.generatorTorque,0);
+s=advanceDrivetrain({rpm:8,speed:28,pitch:90,yawError:0,targetRpm:0,stopping:true,dt:.05});assert.ok(s.rpm<8&&s.rpm>7);assert.equal(s.brakeTorque,0);
+s=advanceDrivetrain({rpm:.2,speed:28,pitch:90,yawError:0,targetRpm:0,stopping:true,dt:.1});assert.ok(s.brakeTorque>0);assert.ok(s.rpm>=0);
+console.log('PASS: feather unloading, torque balance, power balance, no motor drive, gradual slowdown and low-speed parking');

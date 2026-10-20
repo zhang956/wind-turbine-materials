@@ -1,0 +1,23 @@
+import assert from 'node:assert/strict';
+import {createTelemetry} from '../viewer/telemetry-data.mjs';
+const start=Date.parse('2026-10-17T00:00:00Z'),key='main_bearing_temperature';
+const packet=(t,value=50,unit='degC',quality='good')=>({schemaVersion:1,sourceId:'TEST',turbineId:'T01',points:[{key,value,unit,quality,timestamp:start+t}]});
+const m=createTelemetry();m.ingest(packet(0),start);assert.equal(m.rows(start)[0].assessment,'unconfigured');
+m.configure({schemaVersion:1,staleMs:15000,rules:{[key]:{warning:70,alarm:90,holdMs:2000,hysteresis:5}}});
+m.ingest(packet(1000,95),start+1000);m.ingest(packet(1000,95),start+3000);assert.equal(m.events.length,0,'重复样本不推进持续时间');
+m.ingest(packet(3000,95),start+3000);assert.equal(m.rows(start+3000)[0].assessment,'alarm');assert.equal(m.events.length,1);
+m.ingest(packet(4000,NaN),start+4000);assert.equal(m.rows(start+4000)[0].quality,'invalid');assert.equal(m.events.length,1,'坏数据不恢复告警');
+m.ingest(packet(5000,60),start+5000);m.ingest(packet(7000,60),start+7000);assert.equal(m.events.at(-1).type,'recovered');
+m.ingest(packet(8000,50,'F'),start+8000);assert.equal(m.rows(start+8000)[0].quality,'unit');
+m.ingest(packet(7000),start+9000);assert.equal(m.rows(start+9000)[0].quality,'out_of_order');
+m.ingest(packet(10000),start+10000);assert.equal(m.rows(start+30000)[0].quality,'stale');
+assert.equal(m.rows(start+30000)[1].quality,'missing');
+assert.throws(()=>m.configure({schemaVersion:1,staleMs:1000,rules:{bad:{warning:1,alarm:2}}}));
+assert.throws(()=>m.ingest({...packet(0),turbineId:'T02'},start+30000),'设备变化必须显式开始新源');
+console.log('PASS: quality, no default thresholds, persistence delay, duplicates, recovery, stale, source isolation');
+
+const recovery=createTelemetry();recovery.ingest(packet(1000),start+1000);
+recovery.ingest({...packet(1000),points:[]},start+1000);recovery.ingest(packet(1000),start+1000);
+assert.equal(recovery.rows(start+1000)[0].quality,'good');assert.equal(recovery.rows(start+1000)[0].history.length,1);
+recovery.ingest(packet(0),start+1000);recovery.ingest(packet(1000),start+1000);assert.equal(recovery.rows(start+1000)[0].value,50);
+recovery.ingest(packet(-1e20),start);assert.equal(recovery.rows(start)[0].timestamp,null);

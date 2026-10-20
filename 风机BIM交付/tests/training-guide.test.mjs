@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {recoveryChecks,LESSONS} from '../viewer/training-guide.mjs';
+import {createTraining} from '../viewer/training-data.mjs';
+const stopped={rpm:0,pitch:90,blade1Pitch:90};
+assert.equal(Object.keys(LESSONS).length,4);
+const t=createTraining();t.update(stopped,{epoch:0,elapsed:0});t.setFault('pitchLag');
+assert.equal(t.lastFault,'pitchLag');
+assert.equal(recoveryChecks(t,stopped).filter(c=>!c.ok).length,2);
+t.setFault('none');t.acknowledge();assert.equal(t.canResume(stopped),true);
+for(const state of [{...stopped,rpm:-1},{...stopped,rpm:NaN},{...stopped,blade1Pitch:Infinity},{...stopped,blade1Pitch:84.9},{...stopped,pitch:84.9}])assert.equal(t.canResume(state),false);
+assert.equal(t.resume(stopped),true);assert.equal(t.completed,1);assert.equal(t.lastFault,'pitchLag');assert.equal(t.resume(stopped),false);
+t.update(stopped,{epoch:1,elapsed:0});assert.equal(t.completed,0);assert.equal(t.lastFault,'none');

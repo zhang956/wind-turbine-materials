@@ -1,0 +1,31 @@
+2026-10-16 / R01
+
+1. 原始资料
+PDF读取成功，16页，2,800,473字节；制作2017-10-09、修改2018-06-22。
+源文件保存于references，hash见data/source_catalog.json。
+
+2. Blender / GLB
+Blender4.0.2，CPU Cycles 48 samples，关闭当前构建不支持的OpenImageDenoiser。
+成功导出blend、整机GLB、机舱GLB及四张静态PNG。
+python3 src/check_artifacts.py：PASS，163构件，41068三角面。
+
+3. IFC
+PYTHONPATH=/tmp/wind-bim-venv/lib/python3.12/site-packages python3 src/export_ifc.py
+IfcOpenShell0.9.0.post1，IFC4，12功能系统。
+属性和EXPRESS规则校验通过；OpenCascade重读网格及世界包络对比通过。
+详细机器可读报告：data/ifc_validation.json。
+
+4. 浏览器
+JavaScript语法检查及esbuild打包通过。
+本机启动HTTP失败：[Errno 1] Operation not permitted。
+Chromium启动失败：crashpad socket setsockopt Operation not permitted。
+已提供内嵌模型的“打开三维模型.html”；因本机限制，实际交互验收待用户环境完成。
+没有运行在线服务，没有接入运行数据，没有宣称浏览器验证通过。
+
+5. 独立代码审查
+复查了GLB/IFC坐标、系统分解、GUID映射、来源说明及浏览器属性写入。
+修复：包外PDF引用、清单缺少GUID、聚焦隐藏对象导致空视图、GLB检测仅检查子集。
+
+6. 非验收范围
+不构成原厂设计图真实性认证；不构成尺寸公差、几何干涉、载荷/强度或施工制造验收。
+未在Revit内打开。不存在原生RVT/RFA交付。

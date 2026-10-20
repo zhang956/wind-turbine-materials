@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {createRecording} from '../viewer/replay-data.mjs';
+const r=createRecording(),frame=t=>({time:t,state:{rpm:t,pitch:0},wind:{speed:8},training:{fault:'none'}});
+r.record(frame(0),0);r.record(frame(.5),0);assert.equal(r.frames.length,1,'1秒采样');r.record(frame(.5),0,true);assert.equal(r.frames.length,2,'事件强制采样');
+const source=frame(1);r.record(source,0,true);source.state.rpm=500;assert.equal(r.frames.at(-1).state.rpm,1,'快照不可被实时状态修改');
+const copy=r.frames;copy[0].state.rpm=100;assert.equal(r.frames[0].state.rpm,0);
+for(let i=2;i<1000;i++)r.record(frame(i),0);assert.ok(r.frames[0].time>=399&&r.frames.length<=601);
+assert.equal(r.atTime(0),null,'被淘汰事件不能错误定位到新帧');assert.equal(r.atTime(900).time,900);assert.equal(r.atTime(10000),null);
+r.record(frame(0),1);assert.equal(r.frames.length,1,'新会话清空回放');
+const rounded=createRecording();rounded.record(frame(0),0);rounded.record(frame(1.0000000000002),0);
+assert.equal(rounded.atTime(1).time,1.0000000000002,'滑块十进制时间应容忍浮点误差，不能跳到前一帧');
+console.log('PASS: recording interval, forced events, immutable snapshots, bounded history and epoch reset');
